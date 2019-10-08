@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
-
 import Logo from '../../Logo/Logo';
 import NavItems from '../NavItems/NavItems';
 import Hamburger from './Hamburger/Hamburger';
